@@ -9,3 +9,6 @@ https://coder4589.github.io/test or https://coder4589.github.io/test.html
 
 # Load "elevatezoomplus-screenmode.html":
 https://coder4589.github.io/elevatezoomplus-screenmode or https://coder4589.github.io/elevatezoomplus-screenmode.html
+
+# Load "index.html" from "inside folder test" folder:
+https://coder4589.github.io/inside-folder-test/ or https://coder4589.github.io/inside-folder-test/index.html
